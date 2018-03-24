@@ -1,0 +1,1 @@
+g++ -o zadanie.exe zadanie.cpp Circle.o Square.o Pentagon.o Hexagon.o Rhombus.o Rectangle.o
